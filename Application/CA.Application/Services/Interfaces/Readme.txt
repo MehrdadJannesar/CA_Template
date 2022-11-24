@@ -1,0 +1,1 @@
+﻿Interfaces for services of Application (Business logic)
